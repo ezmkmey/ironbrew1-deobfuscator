@@ -1,2 +1,4 @@
 # ironbrew1-deobfuscator
-idk got bored
+happy halloween!
+
+6k lines of pure js poetry

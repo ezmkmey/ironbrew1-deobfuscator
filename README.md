@@ -4,6 +4,7 @@
 only tested on luau mode. if ydk how to support other modes thats on you (diff is only antitamper p sure)
 
 to use run 
+node src/devirt.js obfuscated.luau out.luau
 
 credits: <br>
 customluaucli : really good cli <br> semantic-lifter : really good lifter

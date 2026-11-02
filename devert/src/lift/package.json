@@ -1,8 +1,0 @@
-{
-  "name": "ib1-lift",
-  "version": "0.1.0",
-  "private": true,
-  "description": "ironbrew1 all-JS frontend: dump + obfuscated source -> per-function instruction graph (executor) -> compiler_disassembly_handoff_v3 (emitter). Runs on Node built-ins only.",
-  "type": "commonjs",
-  "bin": { "ib1-lift": "main.js" }
-}

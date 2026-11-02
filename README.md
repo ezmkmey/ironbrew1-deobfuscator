@@ -6,4 +6,4 @@ only tested on luau mode. if ydk how to support other modes thats on you (diff i
 usage: node src/devirt.js <obfuscated.luau> <out.luau>
 
 credits: <br>
-custom-luau-cli : really good cli <br> semantic-lifter : really good lifter
+custom-luau-cli : really good cli <br> [semantic-lifter](https://github.com/luawl/semantic-lifter) : really good lifter

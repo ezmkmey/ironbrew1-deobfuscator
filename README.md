@@ -1,7 +1,7 @@
 # ironbrew1 deobfuscator
 
 6k lines of pure js poetry.
-only tested on luau mode. if ydk how to support other modes thats on you (diff is only antitamper p sure)
+supports luau and universal and roblox mode 
 
 usage: node src/devirt.js <obfuscated.luau> <out.luau>
 

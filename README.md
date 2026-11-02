@@ -1,7 +1,7 @@
 # ironbrew1 deobfuscator
 
 6k lines of pure js poetry.
-supports luau and universal mode 
+supports luau, roblox and universal runtime mode 
 
 usage: node src/devirt.js <obfuscated.luau> <out.luau>
 

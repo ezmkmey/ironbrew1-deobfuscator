@@ -7,4 +7,4 @@ to use run
 node src/devirt.js obfuscated.luau out.luau
 
 credits: <br>
-customluaucli : really good cli <br> semantic-lifter : really good lifter
+custom-luau-cli : really good cli <br> semantic-lifter : really good lifter
